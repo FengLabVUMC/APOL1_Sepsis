@@ -11,6 +11,7 @@ Secondary outcomes: 1) organ failure related to sepsis; 2) short-term mortality
 
 # Table of contents (in manuscript order)
 
+
 1.	Table 1. Clinical characteristics of patients admitted to the hospital with infections. 
 
 2.	Figure 1. Association between APOL1 high-risk genotypes and the risk of sepsis, and septic shock, and individual sepsis organ dysfunction criteria.
