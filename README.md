@@ -19,3 +19,4 @@ In this retrospective cohort study of Black patients hospitalized with infection
 3.	Figure 2. Associations between *APOL1* high-risk genotypes and the risk of sepsis and renal dysfunction before and after adjustment for renal disease, and exclusion of patients with pre-existing severe renal disease.
 
 4.	Figure 3. Restricted PheWAS associations between *APOL1* high-risk genotype and sepsis-related phenotypes.
+   
